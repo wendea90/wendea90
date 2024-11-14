@@ -11,8 +11,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Wondemagegn+Wano+Walole..;software+engineer;full+stack+web+developer;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....&center=true">
+<h1 align="center">Hi 👋, I'm Wondemagegn Wano Walole.</h1>
+<h3 align="center">A passionate SOFTWARE ENGINEER | FULL STACK WEB DEVELOPER | MERN STACK | REACT | NODE from Ethiopia</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=wendea90&label=Profile%20views&color=0e75b6&style=flat" alt="wendea90" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wendea90" alt="wendea90" /></a> </p>
+
+- 👨‍💻 All of my projects are available at [https://wendeawano-portfolio2.vercel.app](https://wendeawano-portfolio2.vercel.app)
+
+- 💬 Ask me about **full stack web development**
+
+- 📫 How to reach me **wendeawano90@gmail.com**
+
+- 📄 Know about my experiences [https://wendeawano-portfolio2.vercel.app/img/resume.pdf](https://wendeawano-portfolio2.vercel.app/img/resume.pdf)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 </p>
 
 # 🖥️ Technical Skills:
